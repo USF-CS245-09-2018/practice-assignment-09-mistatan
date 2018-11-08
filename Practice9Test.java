@@ -76,7 +76,7 @@ public class Practice9Test {
 	 * Full ordering test: insert a few numbers and ensure they are globally in order.
 	 * @return true on success; false otherwise.
 	 */
-	public boolean fullOrderingTest() {
+	public boolean fullOrderingTest(){
 		Random random = new Random();
 		boolean correct = true;
 		
